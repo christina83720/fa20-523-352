@@ -1,4 +1,4 @@
-# Big Data Application in the Healthcare Industry
+# Electronic Health Records and Big Data Applications in the Healthcare Industry
 
 - [ ] figure captions must be below figure
 - [ ] figure must be referenced in text
@@ -64,13 +64,13 @@ Cristian Villanueva, Christina Colon
 Status: in progress, Type: Report
 
 
-[fa20-523-352](https://github.com/cybertraining-dsc/fa20-523-352/), [Edit](https://github.com/cybertraining-dsc/fa20-523-352/blob/main/report/report.md)
+[fa20-523-352]<https://github.com/cybertraining-dsc/fa20-523-352/>, [Edit](https://github.com/cybertraining-dsc/fa20-523-352/blob/main/report/report.md)
 
 {{% pageinfo %}}
 
 ## Abstract
 
-Healthcare is an organized provision of medical practices provided to individuals or a community. Over centuries the need for the application of healthcare has been needed increasingly as humans expand their life span and become more aware of better preventative care practices. The application of Big Data within the industry of Healthcare is of the utmost importance in order to quantify the effects of wide scale efficient and safe solutions. Pharmaceutical and Bio Data Research companies can use big data to intake large facets of patient record data and use this collected data to iterate how preventative care can be implemented before diseases actually present themselves in stages that are beyond the point of potential recovery. Data collected in laboratory settings and statistics collected from medical and state institutions of Healthcare facilitate time, money, and life saving initiatives as machine learning can in certain instances perform better than the average doctor at detecting malignant cells. Big data within healthcare has proven great results for the advancement and diverse application of informed reasoning towards medical solutions.
+Healthcare is an organized provision of medical practices provided to individuals or a community. Over centuries the need for the application of healthcare has been needed increasingly as humans expand their life span and become more aware of better preventative care practices. The application of Big Data within the industry of Healthcare is of the utmost importance in order to quantify the effects of wide scale efficient and safe solutions. Pharmaceutical and Bio Data Research companies can use big data to intake large facets of patient electronic health record (EHR) data and use this collected data to iterate how preventative care can be implemented before diseases actually present themselves in stages that are beyond the point of potential recovery. Data collected in laboratory settings and statistics collected from medical and state institutions of Healthcare facilitate time, money, and life saving initiatives as machine learning can in certain instances perform better than the average doctor at detecting malignant cells. Big data within healthcare has proven great results for the advancement and diverse application of informed reasoning towards medical solutions.
 
 Contents
 
@@ -82,7 +82,7 @@ Contents
 
 ## 1.  Introduction
 
-As modern technology continues to expand into every field of work it broadens the capabilities of each area of the field. Healthcare is one of those fields that greatly benefits from such applications.  Healthcare is a multi-dimensional system established with the sole aim for the prevention, diagnosis, and treatment of health-related issues or impairments in human beings[^6]. The many dimensions of Healthcare indicates the influx of information coming and going from each level as there are multiple different applications of Healthcare. This includes such things like dentistry, medicine, midwifery, nursing, psychology, physiotherapy, etc.  Big data plays a pivotal role when it comes to industries such as Healthcare because of the collection of information that needs to be digitized and maintained in an organized manner to draw relevant conclusions from the information. The demand for healthcare data is renowned around the world as medical professionals find the collective information of medical treatment necessary for moving forward with treatment every time so that they may perform and guarantee the safety and recovery of their patients.
+As modern technology continues to expand into every field of work it broadens the capabilities of each area of the field. Healthcare has that greatly benefited from such applications.  Healthcare is a multi-dimensional system established with the sole aim for the prevention, diagnosis, and treatment of health-related issues or impairments in human beings[^6]. The many dimensions of Healthcare indicates the influx of information coming and going from each level as there are multiple different applications of Healthcare. This includes such things like dentistry, medicine, midwifery, nursing, psychology, physiotherapy, etc.  Big data plays a pivotal role when it comes to industries such as Healthcare because of the collection of information that needs to be digitized and maintained in an organized manner to draw relevant conclusions from the information. The demand for healthcare data is renowned around the world as medical professionals find the collective information of medical treatment necessary for moving forward with treatment every time so that they may perform and guarantee the safety and recovery of their patients.
 
 ## 2. Big Data in Examination Room
 
@@ -123,10 +123,9 @@ EHR as mentioned earlier is digitized health records of patients so that medical
 
 In a study conducted in 2013 there was an investigation to learn as to why physicians are not adopting the use of EHRs in their practices. A table was established to demonstrate as to why physicians are unable to utilize EHR in their practice.
 
-**Figure 1:**. Barriers Physicians Indicate [^3]
 
 ![Barriers Physicians Indicate](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/Barrier.JPEG)
-
+**Figure 1:**. Barriers Physicians Indicate [^3]
 
 
 This is quite an old study so this chart does indicate anything definitive but it has been registered as an actual study and only 7 years have passed when this study was conducted. There are some relevant points that can be applicable to how individual practitioners must handle their practice.
